@@ -13,4 +13,8 @@ The method of use is pretty self-explanatory. You will be prompted with a home s
   - Each horizontal row can only contain each number from 1 to 9 once
 
 # Technology used
-The main library used to build the application is pygame, due to its ease of use in order to build a GUI. Tkinter was another option considered, but the builtin methods of pygame made it a much better fit.
+The main library used to build the application is pygame, due to its ease of use in order to build a GUI. Tkinter was another option considered, but the builtin methods of pygame made it a much better fit
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48157331/141134346-3635ce76-02ab-41cf-a91e-39e4685759f6.png" width="50%" height="50%"/>
+</p>
